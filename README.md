@@ -5,7 +5,7 @@
 I'm a recent graduate in computer science with a passion for **Data Science** and **Machine Learning**. Welcome to my GitHub profile! 
 Here you'll find projects and repositories related to:
 
-- 🌐 Software Engineering & Web Development
+- 🌐 Software Engineering
 - 🚀 Machine Learning & Deep Learning
 - 📊 Data Analysis & Visualization
 - 💻 Data Engineering
