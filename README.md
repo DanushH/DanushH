@@ -2,12 +2,13 @@
 
 <br/>
 
-I'm a recent graduate in computer science with a passion for **Data Science** and **Machine Learning**. Welcome to my GitHub profile! 
-Here you'll find projects and repositories related to:
+I currently work as a Data Analyst, where I’m gaining hands-on exposure to real-world data workflows in regulated environments. My role involves working with both unstructured text data and structured numerical datasets, with a strong focus on accuracy, traceability, and data quality. 
 
-- 🌐 Software Engineering
-- 🚀 Machine Learning & Deep Learning
+Welcome to my GitHub profile! Here you'll find projects and repositories related to:
+
 - 📊 Data Analysis & Visualization
+- 🚀 Machine Learning & Deep Learning
+- 🌐 Software Engineering
 - 💻 Data Engineering
 - 📚 Learning Resources & Tutorials
 
